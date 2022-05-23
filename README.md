@@ -1,2 +1,2 @@
-# PetrikTibi.io
+# PetrikTibi.github.io
 Demo page
